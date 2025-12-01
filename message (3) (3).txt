@@ -287,8 +287,9 @@ local Config = {
             ["Roof Top / Bank Tools 🛠"] = CFrame.new(-385, 340, -557);
             ["Second Gun Shop 🔫"] = CFrame.new(66202, 123615.7109375, 5749.81689453125);
             ["Construction Job 🔨"] = CFrame.new(-1729, 371, -1171);
-        };
+            ["Hospital 🚑"] = CFrame.new(-1590, 254, 17);
 
+        };
         ["Modifications"] = newproxy(true);
     
         ["_Modifications"] = {
@@ -15983,5 +15984,6 @@ if hookfunction and not Solara and LPH_OBFUSCATED and Game_Name == "South ZNO" t
 
         return _FireServer(self, ...)
     end)
+
 
 end
