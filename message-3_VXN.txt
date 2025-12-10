@@ -56,11 +56,11 @@ local _call93 = _5:CreateWindow({
         GrabKeyFromSite = false,
         SaveKey = true,
         FileName = "jc_hub_key",
-        Note = "Get your key at: discord.gg/VXN",
+        Note = "Get your key at: https://discord.gg/CzHMkG5FmD",
     },
     KeySystem = false,
     DisableBuildWarnings = false,
-    Discord = {
+   - Discord = {
         Enabled = false,
         RememberJoins = true,
         Invite = "",
