@@ -1,6 +1,6 @@
 local genv = getgenv()
 local _5 = loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/VXN43221/loading-screen/refs/heads/main/VXN", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LVA246/VXN/refs/heads/main/loadingscreen.txt", true))()
 local _call73 = game:GetService("Players")
 local _LocalPlayer74 = _call73.LocalPlayer
 game:GetService("UserInputService")
